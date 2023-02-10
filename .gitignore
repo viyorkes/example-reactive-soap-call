@@ -1,0 +1,8 @@
+
+target/
+
+.DS_Store
+
+src/.idea/
+
+src/main/resources/logback.xml
